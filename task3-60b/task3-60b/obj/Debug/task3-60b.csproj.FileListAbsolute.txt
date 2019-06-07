@@ -1,0 +1,12 @@
+C:\Users\Z\Desktop\task3-60b\task3-60b\bin\Debug\task3-60b.exe.config
+C:\Users\Z\Desktop\task3-60b\task3-60b\bin\Debug\task3-60b.exe
+C:\Users\Z\Desktop\task3-60b\task3-60b\bin\Debug\task3-60b.pdb
+C:\Users\Z\Desktop\task3-60b\task3-60b\obj\Debug\task3-60b.csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task3-60b\task3-60b\obj\Debug\task3-60b.exe
+C:\Users\Z\Desktop\task3-60b\task3-60b\obj\Debug\task3-60b.pdb
+C:\Users\Z\Desktop\практика готов\task3-60b\task3-60b\bin\Debug\task3-60b.exe.config
+C:\Users\Z\Desktop\практика готов\task3-60b\task3-60b\bin\Debug\task3-60b.exe
+C:\Users\Z\Desktop\практика готов\task3-60b\task3-60b\bin\Debug\task3-60b.pdb
+C:\Users\Z\Desktop\практика готов\task3-60b\task3-60b\obj\Debug\task3-60b.csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\практика готов\task3-60b\task3-60b\obj\Debug\task3-60b.exe
+C:\Users\Z\Desktop\практика готов\task3-60b\task3-60b\obj\Debug\task3-60b.pdb
